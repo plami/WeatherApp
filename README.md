@@ -13,3 +13,4 @@ Task list:
 3. When selecting a day, you should list all the information for that day.
 4. Handle all possible errors and scenarios.
 5. Use the corresponding icons from the API based on the weather conditions.
+6. Functionality to add new WOEIDs
